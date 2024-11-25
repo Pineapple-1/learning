@@ -59,3 +59,10 @@ export interface Move {
   power: number;
   damage_class: unknown
 }
+
+
+
+
+// type compatibility
+// builtin generic types
+//
